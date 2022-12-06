@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+#button{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+canvas{
+    display: flex;
+    justify-content: center;
+}
